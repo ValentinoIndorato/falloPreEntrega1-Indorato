@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.NabVar{
+  background-color: beige;
+  
+}
+.NabVar ul {
+  
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  list-style: none;  
+}
+
+.NabVar ul li {
+  margin: 1rem;
+
+}
+.cartWidget{
+  position: absolute;
+  
+  right: 2rem;
+}
+.cartWidget span{
+  position: absolute;
+
+}
+.NabVar a {text-decoration: none;
+color: #282c34;}
